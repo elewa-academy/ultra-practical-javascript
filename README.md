@@ -89,7 +89,8 @@ Demo Repositories:
 * [CleanCalc Repo](https://github.com/radovandelic/cleancalc)
 
 
-* [Extra practice](https://medium.com/@etiennerouzeaud/a-simple-crud-application-with-javascript-ebc82f688c59) - another similar tutorial, but less complete
+Extra practice:
+* [A similar tutorial](https://medium.com/@etiennerouzeaud/a-simple-crud-application-with-javascript-ebc82f688c59), but less complete
 
 [TOP](#index)
 
