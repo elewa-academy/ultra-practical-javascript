@@ -32,8 +32,8 @@ Finally, you will refactor his last version into your final version that uses 3-
 ## Specifications
 
 Individually you will follow the entire [Practical JavaScript](https://watchandcode.com/p/practical-javascript) tutorial. 
-0. Create a new directory where you will store all of your work for this project. Put in a nice README, but that's all for now.
-1. For each version:
+1. Create a new directory where you will store all of your work for this project. Put in a nice README, but that's all for now.
+2. For each version:
     1. Follow his videos, rewriting his code on your own (in plunkr is fine).
     2. Create a new folder named after this version in your directory.
     3. Write a nice README to summarize what happened in this step.
@@ -41,13 +41,13 @@ Individually you will follow the entire [Practical JavaScript](https://watchandc
 
 
 
-Together we will:
-0. Create a new empty folder and repository
-1. Copy the code from each folder to a new empty branch on your computer
-2. Polish a README for this version
-3. Merge that branch into master
-4. Place a new tag on master to mark the new version
-5. Push to GitHub: 
+Together we will:  
+1. Create a new empty folder and repository
+2. Copy the code from each folder to a new empty branch on your computer
+3. Polish a README for this version
+4. Merge that branch into master
+5. Place a new tag on master to mark the new version
+6. Push to GitHub: 
   * Updated master branch
   * The new version tag
 
