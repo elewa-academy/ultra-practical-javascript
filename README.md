@@ -48,15 +48,15 @@ Together we will:
 4. Merge that branch into master
 5. Place a new tag on master to mark the new version
 6. Push to GitHub: 
-  * Updated master branch
-  * The new version tag
+    * Updated master branch
+    * The new version tag
 
 
-The end result will be a repository organized by steps in the tutorial.  For each step you will have:
-* A good README
-* A branch
-* A release
-* Your code
+The end result will be a repository organized by steps in the tutorial.  For each step you will have:  
+* A good README  
+* A branch  
+* A release  
+* Your code 
 
 
 [TOP](#index)
